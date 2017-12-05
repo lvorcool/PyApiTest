@@ -1,0 +1,28 @@
+{
+  "login": {
+    "name": "20160613039",
+    "brief": "WANG",
+    "password": "123456",
+    "version": "4.8.1"
+  },
+  "login1": {
+    "name": "18510148514",
+    "brief": "tester",
+    "password": "123456",
+    "version": "4.8.1"
+  },
+  "id": {
+    "id": "2"
+  },
+  "auth": {
+    "auth": ""
+  },
+  "addsaleLead":{
+	"source2": "汽车之家",
+	"sex": "男",
+	"promotion": "",
+	"phone": "20171204003",
+	"source1": "source1",
+	"quoteInfo": ""
+}
+}
